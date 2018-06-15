@@ -3,6 +3,7 @@
   "type": "project",
   "description": "Default PHP Project",
   "minimum-stability": "dev",
+  "license": "MIT",
   "require": {
     "altorouter/altorouter": "^1.2",
     "matthiasmullie/minify": "^1.3"
